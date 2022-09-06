@@ -4,13 +4,15 @@
     "title":"Expresso Tradicional",
     "description":"O tradicional café feito com água quente e grãos moídos",
     "price":9.99,
-    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee1.png"
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee1.png",
+    "tags":["tradicional"]
   },
   {
     "id":2,
     "title":"Expresso Americano",
     "description":"Expresso diluído, menos intenso que o tradicional",
     "price":12.99,
-    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee2.png"
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee2.png",
+    "tags":["tradicional"]
   }
 ]
