@@ -11,8 +11,104 @@
     "id":2,
     "title":"Expresso Americano",
     "description":"Expresso diluído, menos intenso que o tradicional",
-    "price":12.99,
+    "price":9.99,
     "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee2.png",
     "tags":["tradicional"]
+  },
+  {
+    "id":3,
+    "title":"Expresso Cremoso",
+    "description":"Café expresso tradicional com espuma cremosa",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee3.png",
+    "tags":["tradicional"]
+  },
+  {
+    "id":4,
+    "title":"Expresso Gelado",
+    "description":"Bebida preparada com café expresso e cubos de gelo",
+    "price":9.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee4.png",
+    "tags":["tradicional","gelado"]
+  },
+  {
+    "id":5,
+    "title":"Café com Leite",
+    "description":"Meio a meio de expresso tradicional com leite vaporizado",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee5.png",
+    "tags":["tradicional","com leite"]
+  },
+  {
+    "id":6,
+    "title":"Latte",
+    "description":"Uma dose de café expresso com o dobro de leite e espuma cremosa",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee6.png",
+    "tags":["tradicional","com leite"]
+  },
+  {
+    "id":7,
+    "title":"Capuccino",
+    "description":"Bebida com canela feita de doses iguais de café, leite e espuma",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee7.png",
+    "tags":["tradicional","com leite"]
+  },
+  {
+    "id":8,
+    "title":"Macchiato",
+    "description":"Café expresso misturado com um pouco de leite quente e espuma",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee8.png",
+    "tags":["tradicional","com leite"]
+  },
+  {
+    "id":9,
+    "title":"Mocaccino",
+    "description":"Café expresso com calda de chocolate, pouco leite e espuma",
+    "price":10.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee9.png",
+    "tags":["tradicional","com leite"]
+  },
+  {
+    "id":10,
+    "title":"Chocolate Quente",
+    "description":"Bebida feita com chocolate dissolvido no leite quente e café",
+    "price":9.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee10.png",
+    "tags":["especial","com leite"]
+  },
+  {
+    "id":11,
+    "title":"Cubano",
+    "description":"Drink gelado de café expresso com rum, creme de leite e hortelã",
+    "price":12.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee11.png",
+    "tags":["especial","alcoólico","gelado"]
+  },
+  {
+    "id":12,
+    "title":"Havaiano",
+    "description":"Bebida adocicada preparada com café e leite de coco",
+    "price":12.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee12.png",
+    "tags":["especial"]
+  },
+    {
+    "id":13,
+    "title":"Árabe",
+    "description":"Bebida preparada com grãos de café árabe e especiarias",
+    "price":12.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee13.png",
+    "tags":["especial"]
+  },
+    {
+    "id":14,
+    "title":"Irlandês",
+    "description":"Bebida a base de café, uísque irlandês, açúcar e chantilly",
+    "price":12.99,
+    "imageLink":"https://hortigas.github.io/coffeeDeliveryAPI/coffeeImages/coffee14.png",
+    "tags":["especial","alcoólico"]
   }
 ]
